@@ -1,4 +1,4 @@
-@import url(_variaveis.css);
+@import url(variaveis.css);
 
 .body{
     background: url(../../img/fundo-textura.png), url(../../img/fundo-linhas.png);
